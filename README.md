@@ -3,5 +3,10 @@ We present a Demo on how to use an efficient method on 3D cloud points pole like
 
 ## Preparation 
 ```
-git clone 
+git clone https://github.com/lidartw/Pole-like-detection.git
+```
+
+## Testing
+```
+python3 
 ```
