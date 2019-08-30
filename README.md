@@ -12,7 +12,13 @@ cd to/download/path
 sudo chmod +x <Anaconda-Installer>
 ./<Anaconda-Installer>
 ```
-3.
+3. Create an python3.6 environment with needed package
+```
+source ~/.bashrc
+conda create --name py36 python=3.6
+conda activate py36
+conda install -c anaconda scikit-learn 
+```
 
 Skip if you already have.
 
