@@ -29,7 +29,7 @@ git clone https://github.com/lidartw/Pole-like-detection.git
 ## Testing
 ```
 cd Pole-like-detection
-python3 Classifier_Comparison.py
+python Classifier_Comparison.py
 ```
 
 ## Contacting us 
