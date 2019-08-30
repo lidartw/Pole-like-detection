@@ -33,4 +33,5 @@ python3 Classifier_Comparison.py
 ```
 
 ## Contacting us 
-tava2019@gmail.com
+If need more info about our project, feel free to contact us.
+Mail: tava2019@gmail.com
